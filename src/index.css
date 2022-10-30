@@ -1,0 +1,40 @@
+.titulo {
+  display: flex;
+  justify-content: center;
+ }
+ 
+ .img-fluid {
+     display: flex;
+     justify-content: center;
+     margin-top: 50px
+    }
+ 
+ .area-texto {
+     display: flex;
+     justify-content: center;
+     margin-top: 50px
+ }
+ 
+ .area-buttons {
+     display: flex;
+     justify-content: center;
+     margin-top: 100px;
+ }
+ 
+ .footter-content {
+     display: flex;
+     justify-content: center;
+     position: bottom;
+     margin-top: 200px
+ }
+
+ .generation-button {
+    display: flex;
+    flex-direction: center;
+    margin-top: 100px;
+    margin-left: 48%;
+   }
+
+   .span-text {
+    padding: 5px;
+   }

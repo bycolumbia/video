@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VSL-Generator/static/css/main.84ed3198.css",
+    "main.js": "/VSL-Generator/static/js/main.2bb56f5f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/VSL-Generator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/GERADOR_DE.png": "/VSL-Generator/static/media/GERADOR_DE.1d1e5d4abddca26e54df.png",
+    "index.html": "/VSL-Generator/index.html",
+    "main.84ed3198.css.map": "/VSL-Generator/static/css/main.84ed3198.css.map",
+    "main.2bb56f5f.js.map": "/VSL-Generator/static/js/main.2bb56f5f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/VSL-Generator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ed3198.css",
+    "static/js/main.2bb56f5f.js"
+  ]
+}
